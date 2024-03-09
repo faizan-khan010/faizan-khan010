@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Faizan Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-khan010&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-khan010" /> </p>
 
-- 🌱 I’m currently learning **DSA,ReactJS**
+- 🌱 I’m currently learning **DSA,MERN**
 
 - 👨‍💻 All of my projects are available at [https://faizancseportfolio.000webhostapp.com/](https://faizancseportfolio.000webhostapp.com/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **faizankhancse010@gmail.com**
 
